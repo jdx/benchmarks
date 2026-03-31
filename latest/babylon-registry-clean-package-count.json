@@ -1,0 +1,16 @@
+{
+  "npm": {
+    "count": 1774,
+    "minCount": 1768,
+    "maxCount": 1788
+  },
+  "aws": {
+    "count": 1769
+  },
+  "cloudsmith": {
+    "count": 1771
+  },
+  "github": {
+    "count": 1769
+  }
+}
