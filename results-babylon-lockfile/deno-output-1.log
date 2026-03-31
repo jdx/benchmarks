@@ -1,4 +1,0 @@
-[0m[1m[31merror[0m: Failed caching npm package '@nx/nx-linux-arm64-musl@22.6.3'
-
-Caused by:
-    error reading a body from connection

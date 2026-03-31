@@ -1,14 +1,11 @@
 {
   "npm": {
-    "count": 1788
+    "count": 1787
   },
   "aws": {
-    "count": 1771
+    "count": 1770
   },
   "cloudsmith": {
     "count": 1770
-  },
-  "github": {
-    "count": 1769
   }
 }
