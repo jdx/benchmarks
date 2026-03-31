@@ -9,7 +9,9 @@
     "count": 59
   },
   "zpm": {
-    "count": 62
+    "count": 62,
+    "minCount": 61,
+    "maxCount": 62
   },
   "pnpm": {
     "count": 59
