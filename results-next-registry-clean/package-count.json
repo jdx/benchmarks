@@ -1,17 +1,17 @@
 {
   "npm": {
-    "count": 335
-  },
-  "vlt": {
-    "count": 335
-  },
-  "aws": {
-    "count": 335
-  },
-  "cloudsmith": {
     "count": 336
   },
+  "vlt": {
+    "count": 336
+  },
+  "aws": {
+    "count": 336
+  },
+  "cloudsmith": {
+    "count": 337
+  },
   "github": {
-    "count": 335
+    "count": 336
   }
 }

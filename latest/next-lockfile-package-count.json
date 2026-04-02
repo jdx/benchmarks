@@ -1,16 +1,16 @@
 {
   "npm": {
-    "count": 335
+    "count": 336
   },
   "berry": {
-    "count": 335,
-    "minCount": 334,
-    "maxCount": 336
+    "count": 336,
+    "minCount": 335,
+    "maxCount": 337
   },
   "zpm": {
-    "count": 340,
-    "minCount": 340,
-    "maxCount": 341
+    "count": 342,
+    "minCount": 341,
+    "maxCount": 342
   },
   "pnpm": {
     "count": 327
@@ -19,7 +19,7 @@
     "count": 327
   },
   "bun": {
-    "count": 338
+    "count": 339
   },
   "deno": {
     "count": 331
