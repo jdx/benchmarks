@@ -1,6 +1,6 @@
 warning package.json: No license field
 warning alotta-modules@0.0.1: No license field
-(node:4305) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(node:4009) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
 (Use `node --trace-deprecation ...` to show where the warning was created)
 warning " > autoprefixer@10.4.27" has unmet peer dependency "postcss@^8.1.0".
 warning " > babel-loader@9.2.1" has unmet peer dependency "@babel/core@^7.12.0".
@@ -41,7 +41,7 @@ warning "cssnano > cssnano-preset-default > postcss-svgo@6.0.3" has unmet peer d
 warning "cssnano > cssnano-preset-default > postcss-unique-selectors@6.0.4" has unmet peer dependency "postcss@^8.4.31".
 warning "cssnano > cssnano-preset-default > postcss-merge-longhand > stylehacks@6.1.1" has unmet peer dependency "postcss@^8.4.31".
 warning " > eslint-config-airbnb@19.0.4" has unmet peer dependency "eslint-plugin-react-hooks@^4.3.0".
-warning " > eslint-import-resolver-webpack@0.13.10" has unmet peer dependency "webpack@>=1.11.0".
+warning " > eslint-import-resolver-webpack@0.13.11" has unmet peer dependency "webpack@>=1.11.0".
 warning " > gulp-postcss@9.1.0" has unmet peer dependency "postcss@^8.0.0".
 warning " > imports-loader@5.0.0" has unmet peer dependency "webpack@^5.0.0".
 warning " > medium-draft@0.5.18" has unmet peer dependency "draft-convert@^2.0.0".
