@@ -2,127 +2,127 @@
 cwd:
 /home/runner/work/benchmarks/benchmarks/fixtures/next
 package.json:
--rw-r--r-- 1 runner runner 598 Apr  5 10:33 package.json
+-rw-r--r-- 1 runner runner 598 Apr 14 20:34 package.json
 yarn path:
 /home/runner/.yarn/switch/bin/yarn
 yarn version:
 4.13.0
 canary version:
-6.0.0-rc.15
+6.0.0-rc.16
 packageManager (before):
 "yarn@4.13.0"
-set packageManager=yarn@6.0.0-rc.15:
+set packageManager=yarn@6.0.0-rc.16:
 packageManager (after):
-"yarn@6.0.0-rc.15"
+"yarn@6.0.0-rc.16"
 [zpm prepare]
 cwd:
 /home/runner/work/benchmarks/benchmarks/fixtures/next
 package.json:
--rw-r--r-- 1 runner runner 564 Apr  5 10:33 package.json
+-rw-r--r-- 1 runner runner 564 Apr 14 20:34 package.json
 yarn path:
 /home/runner/.yarn/switch/bin/yarn
 yarn version:
 1.22.22
 canary version:
-6.0.0-rc.15
+6.0.0-rc.16
 packageManager (before):
 {}
-set packageManager=yarn@6.0.0-rc.15:
+set packageManager=yarn@6.0.0-rc.16:
 packageManager (after):
-"yarn@6.0.0-rc.15"
+"yarn@6.0.0-rc.16"
 [zpm prepare]
 cwd:
 /home/runner/work/benchmarks/benchmarks/fixtures/next
 package.json:
--rw-r--r-- 1 runner runner 564 Apr  5 10:33 package.json
+-rw-r--r-- 1 runner runner 564 Apr 14 20:34 package.json
 yarn path:
 /home/runner/.yarn/switch/bin/yarn
 yarn version:
 1.22.22
 canary version:
-6.0.0-rc.15
+6.0.0-rc.16
 packageManager (before):
 {}
-set packageManager=yarn@6.0.0-rc.15:
+set packageManager=yarn@6.0.0-rc.16:
 packageManager (after):
-"yarn@6.0.0-rc.15"
+"yarn@6.0.0-rc.16"
 [zpm prepare]
 cwd:
 /home/runner/work/benchmarks/benchmarks/fixtures/next
 package.json:
--rw-r--r-- 1 runner runner 564 Apr  5 10:33 package.json
+-rw-r--r-- 1 runner runner 564 Apr 14 20:34 package.json
 yarn path:
 /home/runner/.yarn/switch/bin/yarn
 yarn version:
 1.22.22
 canary version:
-6.0.0-rc.15
+6.0.0-rc.16
 packageManager (before):
 {}
-set packageManager=yarn@6.0.0-rc.15:
+set packageManager=yarn@6.0.0-rc.16:
 packageManager (after):
-"yarn@6.0.0-rc.15"
+"yarn@6.0.0-rc.16"
 [zpm prepare]
 cwd:
 /home/runner/work/benchmarks/benchmarks/fixtures/next
 package.json:
--rw-r--r-- 1 runner runner 564 Apr  5 10:33 package.json
+-rw-r--r-- 1 runner runner 564 Apr 14 20:34 package.json
 yarn path:
 /home/runner/.yarn/switch/bin/yarn
 yarn version:
 1.22.22
 canary version:
-6.0.0-rc.15
+6.0.0-rc.16
 packageManager (before):
 {}
-set packageManager=yarn@6.0.0-rc.15:
+set packageManager=yarn@6.0.0-rc.16:
 packageManager (after):
-"yarn@6.0.0-rc.15"
+"yarn@6.0.0-rc.16"
 [zpm prepare]
 cwd:
 /home/runner/work/benchmarks/benchmarks/fixtures/next
 package.json:
--rw-r--r-- 1 runner runner 564 Apr  5 10:33 package.json
+-rw-r--r-- 1 runner runner 564 Apr 14 20:34 package.json
 yarn path:
 /home/runner/.yarn/switch/bin/yarn
 yarn version:
 1.22.22
 canary version:
-6.0.0-rc.15
+6.0.0-rc.16
 packageManager (before):
 {}
-set packageManager=yarn@6.0.0-rc.15:
+set packageManager=yarn@6.0.0-rc.16:
 packageManager (after):
-"yarn@6.0.0-rc.15"
+"yarn@6.0.0-rc.16"
 [zpm prepare]
 cwd:
 /home/runner/work/benchmarks/benchmarks/fixtures/next
 package.json:
--rw-r--r-- 1 runner runner 564 Apr  5 10:33 package.json
+-rw-r--r-- 1 runner runner 564 Apr 14 20:34 package.json
 yarn path:
 /home/runner/.yarn/switch/bin/yarn
 yarn version:
 1.22.22
 canary version:
-6.0.0-rc.15
+6.0.0-rc.16
 packageManager (before):
 {}
-set packageManager=yarn@6.0.0-rc.15:
+set packageManager=yarn@6.0.0-rc.16:
 packageManager (after):
-"yarn@6.0.0-rc.15"
+"yarn@6.0.0-rc.16"
 [zpm prepare]
 cwd:
 /home/runner/work/benchmarks/benchmarks/fixtures/next
 package.json:
--rw-r--r-- 1 runner runner 599 Apr  5 10:39 package.json
+-rw-r--r-- 1 runner runner 599 Apr 14 20:41 package.json
 yarn path:
 /home/runner/.yarn/switch/bin/yarn
 yarn version:
 4.13.0
 canary version:
-6.0.0-rc.15
+6.0.0-rc.16
 packageManager (before):
 "yarn@4.13.0"
-set packageManager=yarn@6.0.0-rc.15:
+set packageManager=yarn@6.0.0-rc.16:
 packageManager (after):
-"yarn@6.0.0-rc.15"
+"yarn@6.0.0-rc.16"
