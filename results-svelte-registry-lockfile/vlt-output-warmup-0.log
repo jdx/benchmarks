@@ -1,14 +1,14 @@
-npm http fetch GET 401 https://registry.vlt.io/npm/@fontsource%2ffira-mono 2420ms (cache skip)
-npm http fetch GET 401 https://registry.vlt.io/npm/@neoconfetti%2fsvelte 134ms (cache skip)
-npm http fetch GET 401 https://registry.vlt.io/npm/@sveltejs%2fadapter-auto 122ms (cache skip)
-npm http fetch GET 401 https://registry.vlt.io/npm/@sveltejs%2fkit 118ms (cache skip)
-npm http fetch GET 401 https://registry.vlt.io/npm/@sveltejs%2fvite-plugin-svelte 157ms (cache skip)
-npm http fetch GET 401 https://registry.vlt.io/npm/svelte 222ms (cache skip)
-npm http fetch GET 401 https://registry.vlt.io/npm/svelte-check 315ms (cache skip)
-npm http fetch GET 401 https://registry.vlt.io/npm/typescript 180ms (cache skip)
-npm http fetch GET 401 https://registry.vlt.io/npm/vite 2047ms (cache skip)
+npm http fetch GET 401 https://registry.vlt.io/npm/@fontsource%2ffira-mono 2521ms (cache skip)
+npm http fetch GET 401 https://registry.vlt.io/npm/@neoconfetti%2fsvelte 280ms (cache skip)
+npm http fetch GET 401 https://registry.vlt.io/npm/@sveltejs%2fadapter-auto 234ms (cache skip)
+npm http fetch GET 401 https://registry.vlt.io/npm/@sveltejs%2fkit 244ms (cache skip)
+npm http fetch GET 401 https://registry.vlt.io/npm/@sveltejs%2fvite-plugin-svelte 309ms (cache skip)
+npm http fetch GET 401 https://registry.vlt.io/npm/svelte 439ms (cache skip)
+npm http fetch GET 401 https://registry.vlt.io/npm/svelte-check 458ms (cache skip)
+npm http fetch GET 401 https://registry.vlt.io/npm/typescript 499ms (cache skip)
+npm http fetch GET 401 https://registry.vlt.io/npm/vite 2037ms (cache skip)
 npm error code E401
 npm error Unable to authenticate, your authentication token seems to be invalid.
 npm error To correct this please try logging in again with:
 npm error   npm login
-npm error A complete log of this run can be found in: /home/runner/.npm/_logs/2026-04-14T20_30_17_408Z-debug-0.log
+npm error A complete log of this run can be found in: /home/runner/.npm/_logs/2026-04-15T10_44_35_646Z-debug-0.log
