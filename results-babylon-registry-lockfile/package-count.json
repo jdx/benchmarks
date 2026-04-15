@@ -1,8 +1,11 @@
 {
   "npm": {
-    "count": 1791
+    "count": 1792
+  },
+  "vlt": {
+    "count": 1782
   },
   "aws": {
-    "count": 1781
+    "count": 1779
   }
 }
