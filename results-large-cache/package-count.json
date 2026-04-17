@@ -11,16 +11,14 @@
     "maxCount": 1545
   },
   "pnpm": {
-    "count": 1288,
-    "minCount": 1287,
-    "maxCount": 1288
+    "count": 1288
   },
   "vlt": {
     "count": 1294
   },
   "bun": {
-    "count": 1553,
-    "minCount": 1545,
+    "count": 1555,
+    "minCount": 1554,
     "maxCount": 1555
   },
   "deno": {
