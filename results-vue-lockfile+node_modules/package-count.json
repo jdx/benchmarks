@@ -1,28 +1,30 @@
 {
   "npm": {
-    "count": 476
+    "count": 477
   },
   "yarn": {
-    "count": 465
+    "count": 466
   },
   "berry": {
-    "count": 461
-  },
-  "zpm": {
-    "count": 467,
-    "minCount": 466,
-    "maxCount": 468
-  },
-  "pnpm": {
-    "count": 441
-  },
-  "vlt": {
-    "count": 441
-  },
-  "bun": {
     "count": 462
   },
+  "zpm": {
+    "count": 468,
+    "minCount": 467,
+    "maxCount": 469
+  },
+  "pnpm": {
+    "count": 442,
+    "minCount": 441,
+    "maxCount": 442
+  },
+  "vlt": {
+    "count": 442
+  },
+  "bun": {
+    "count": 463
+  },
   "deno": {
-    "count": 439
+    "count": 440
   }
 }
