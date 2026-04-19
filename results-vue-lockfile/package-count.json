@@ -10,13 +10,11 @@
   },
   "zpm": {
     "count": 468,
-    "minCount": 467,
+    "minCount": 468,
     "maxCount": 469
   },
   "pnpm": {
-    "count": 442,
-    "minCount": 441,
-    "maxCount": 442
+    "count": 442
   },
   "vlt": {
     "count": 442
