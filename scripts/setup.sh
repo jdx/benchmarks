@@ -50,6 +50,9 @@ npm install -g npm@latest corepack@latest vlt@latest bun@latest deno@latest nx@l
 # Install Vite+ (vp) via npm (available as the `vite-plus` package)
 npm install -g vite-plus@latest
 
+# Install aube via npm (available as the `@endevco/aube` package)
+npm install -g @endevco/aube@latest
+
 # Configure Package Managers
 echo "Configuring package managers..."
 corepack enable yarn pnpm
@@ -77,6 +80,7 @@ DENO_VERSION="$(npm view deno@latest version)"
 NX_VERSION="$(npm view nx@latest version)"
 TURBO_VERSION="$(npm view turbo@latest version)"
 VP_VERSION="$(npm view vite-plus@latest version 2>/dev/null || echo "unknown")"
+AUBE_VERSION="$(aube --version 2>/dev/null | head -1 || echo "unknown")"
 NODE_VERSION=$(node -v)
 
 # Output versions
@@ -92,6 +96,7 @@ echo "deno: $DENO_VERSION"
 echo "nx: $NX_VERSION"
 echo "turbo: $TURBO_VERSION"
 echo "vp: $VP_VERSION"
+echo "aube: $AUBE_VERSION"
 echo "node: $NODE_VERSION"
 
 # Save versions to JSON file
@@ -108,6 +113,7 @@ echo "{
   \"nx\": \"$NX_VERSION\",
   \"turbo\": \"$TURBO_VERSION\",
   \"vp\": \"$VP_VERSION\",
+  \"aube\": \"$AUBE_VERSION\",
   \"node\": \"$NODE_VERSION\"
 }" > ./results/versions.json
 

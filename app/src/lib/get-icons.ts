@@ -1,6 +1,7 @@
 import {
   Vlt,
   Astro,
+  Aube,
   Aws,
   Berry,
   Bun,
@@ -25,6 +26,7 @@ import type { LucideIcon } from "lucide-react";
 import type { Fixture, PackageManager } from "@/types/chart-data";
 
 const packageManagerMap: Partial<Record<PackageManager, LucideIcon>> = {
+  aube: Aube,
   aws: Aws,
   bun: Bun,
   cloudsmith: Cloudsmith,

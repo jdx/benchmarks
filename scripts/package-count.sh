@@ -9,7 +9,9 @@ else
 fi
 
 infer_package_manager() {
-  if [[ -f "deno.lock" ]]; then
+  if [[ -f "aube-lock.yaml" ]]; then
+    echo "aube"
+  elif [[ -f "deno.lock" ]]; then
     echo "deno"
   elif [[ -f "bun.lockb" || -f "bun.lock" ]]; then
     echo "bun"
