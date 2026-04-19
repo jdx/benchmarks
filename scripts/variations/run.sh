@@ -77,7 +77,7 @@ hyperfine --ignore-failure \
   ${BENCH_INCLUDE_BUN:+--command-name="bun" "$BENCH_COMMAND_BUN"} \
   ${BENCH_INCLUDE_DENO:+--prepare="$BENCH_INSTALL_PREPARE_DENO"} \
   ${BENCH_INCLUDE_DENO:+--command-name="deno" "$BENCH_COMMAND_DENO"} \
-  ${BENCH_INCLUDE_AUBE:+--prepare="$BENCH_INSTALL_PREPARE_AUBE"} \
+  ${BENCH_INCLUDE_AUBE:+--prepare="$BENCH_INSTALL_PREPARE_AUBE || true"} \
   ${BENCH_INCLUDE_AUBE:+--command-name="aube" "$BENCH_COMMAND_AUBE"} \
   ${BENCH_INCLUDE_VP:+--prepare="$BENCH_INSTALL_PREPARE_VP"} \
   ${BENCH_INCLUDE_VP:+--command-name="vp" "$BENCH_COMMAND_VP"} \
