@@ -97,7 +97,7 @@ BENCH_INSTALL_PNPM11="corepack pnpm@next-11 install --ignore-scripts --silent"
 BENCH_INSTALL_VLT="vlt install --view=silent"
 BENCH_INSTALL_BUN="bun install --ignore-scripts --silent"
 BENCH_INSTALL_DENO="deno install --quiet"
-BENCH_INSTALL_AUBE="aube install --quiet"
+BENCH_INSTALL_AUBE="aube install --silent"
 
 BENCH_COMMAND_NPM="timeout $BENCH_TIMEOUT $BENCH_INSTALL_NPM >> $BENCH_OUTPUT_FOLDER/npm-output-\${HYPERFINE_ITERATION}.log 2>&1"
 BENCH_COMMAND_YARN="timeout $BENCH_TIMEOUT $BENCH_INSTALL_YARN > $BENCH_OUTPUT_FOLDER/yarn-output-\${HYPERFINE_ITERATION}.log 2>&1"
