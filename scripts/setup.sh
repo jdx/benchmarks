@@ -50,8 +50,9 @@ npm install -g npm@latest corepack@latest vlt@latest bun@latest deno@latest nx@l
 # Install Vite+ (vp) via npm (available as the `vite-plus` package)
 npm install -g vite-plus@latest
 
-# Install aube via npm (available as the `@endevco/aube` package)
-npm install -g @endevco/aube@latest
+# Install aube via npm. The `latest` dist-tag currently points at an older
+# beta that fails cold fixture installs, while `next` tracks the current beta.
+npm install -g @endevco/aube@next
 
 # Configure Package Managers
 echo "Configuring package managers..."
