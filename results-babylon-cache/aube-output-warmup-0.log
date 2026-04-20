@@ -1,0 +1,4 @@
+Error:   × failed to resolve dependencies
+  ╰─▶ registry error for @dev/lottie-player: package not found: @dev/lottie-
+      player
+

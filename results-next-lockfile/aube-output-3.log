@@ -1,0 +1,3 @@
+Error:   × packageManager uses unsupported package manager `yarn`. aube only accepts
+  │ `aube` and `pnpm` when packageManagerStrict=true.
+

@@ -15,7 +15,7 @@
     "count": 4
   },
   "pnpm11": {
-    "count": 16
+    "count": 4
   },
   "vlt": {
     "count": 6
@@ -24,6 +24,9 @@
     "count": 2
   },
   "deno": {
+    "count": 2
+  },
+  "aube": {
     "count": 2
   }
 }

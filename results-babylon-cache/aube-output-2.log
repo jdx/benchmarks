@@ -1,0 +1,4 @@
+Error:   × failed to resolve dependencies
+  ╰─▶ registry error for @dev/shared-ui-components: package not found: @dev/
+      shared-ui-components
+
