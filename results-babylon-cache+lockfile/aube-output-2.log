@@ -1,4 +1,3 @@
 Error:   × failed to resolve dependencies
-  ╰─▶ registry error for @dev/smart-filters: package not found: @dev/smart-
-      filters
+  ╰─▶ registry error for @lts/core: package not found: @lts/core
 
