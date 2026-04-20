@@ -29,6 +29,7 @@ const countFiles = [
   { filename: 'vlt-count.txt', pmName: 'vlt' },
   { filename: 'bun-count.txt', pmName: 'bun' },
   { filename: 'deno-count.txt', pmName: 'deno' },
+  { filename: 'aube-count.txt', pmName: 'aube' },
   // Registry names (for registry benchmark variations)
   { filename: 'aws-count.txt', pmName: 'aws' },
 

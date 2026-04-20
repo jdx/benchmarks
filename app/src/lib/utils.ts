@@ -236,6 +236,7 @@ export const calculateLeaderboard = (
               "bun",
               "deno",
               "vlt",
+              "aube",
             ].includes(pm),
           );
 

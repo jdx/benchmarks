@@ -94,6 +94,14 @@ clean_vp_cache() {
   fi
 }
 
+# Function to safely clean aube cache
+clean_aube_cache() {
+  if command -v aube &> /dev/null; then
+    aube cache clean >/dev/null 2>&1 || true
+    safe_remove "$HOME/.local/share/aube"
+  fi
+}
+
 # Function to clean lockfiles for all package managers
 clean_lockfiles() {
   echo "Cleaning lockfiles..."
@@ -104,6 +112,7 @@ clean_lockfiles() {
   safe_remove "bun.lockb"
   safe_remove "bun.lock"
   safe_remove "deno.lock"
+  safe_remove "aube-lock.yaml"
 }
 
 # Function to clean package manager field from package.json
@@ -158,6 +167,7 @@ clean_all_cache() {
   clean_nx_cache
   clean_deno_cache
   clean_vp_cache
+  clean_aube_cache
 }
 
 clean_build_files() {
@@ -206,6 +216,7 @@ show_help() {
   echo "  clean_bun_cache"
   echo "  clean_nx_cache"
   echo "  clean_deno_cache"
+  echo "  clean_aube_cache"
   echo "  clean_lockfiles"
   echo "  clean_package_manager_field"
   echo "  clean_package_manager_files"
@@ -255,6 +266,9 @@ else
         ;;
       clean_deno_cache)
         clean_deno_cache
+        ;;
+      clean_aube_cache)
+        clean_aube_cache
         ;;
       clean_lockfiles)
         clean_lockfiles

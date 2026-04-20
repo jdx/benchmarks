@@ -12,6 +12,7 @@ export * from "./bar-chart.tsx";
 
 // ecosystem icons
 export * from "./astro.tsx";
+export * from "./aube.tsx";
 export * from "./aws.tsx";
 export * from "./github.tsx";
 export * from "./berry.tsx";
