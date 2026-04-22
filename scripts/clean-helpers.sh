@@ -159,7 +159,6 @@ clean_package_manager_files() {
   safe_remove "pnpm-debug.log"
   safe_remove "yarn-error.log"
   safe_remove ".aube"
-  safe_remove "node_modules/.aube-state"
 }
 
 # Function to remove benchmark-added registry lines from .npmrc
